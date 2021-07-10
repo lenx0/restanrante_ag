@@ -1,0 +1,23 @@
+.main-navbar{
+    height: 70px;
+    background-color: #df1335;
+    display: flex;
+    align-items: center;/*só pode ser usado quando vc utiliza o display flex*/
+    justify-content: center;
+    
+}
+
+.logo-text{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    letter-spacing: -0.015em;
+    color: #FFFFFF;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+/*Cores bonitas
+Azul: #695fa0
+Vermelho: #da5c5c
+Vermelho escuro: #df1335*/
